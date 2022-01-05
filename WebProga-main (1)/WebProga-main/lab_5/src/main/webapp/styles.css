@@ -1,0 +1,24 @@
+body{
+    background-color: burlywood;
+    font-family: Impact;
+    text-align: center;
+    margin-top: 70px;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 2px black;
+    color: azure;
+}
+li{
+    margin-top: 15px;
+    list-style-type: none;
+}
+a{
+    color: darkturquoise;
+}
+h1,h3{
+    color: dodgerblue;
+    margin-top: 15px;
+}
+h2{
+    color: crimson;
+}
+
